@@ -1,12 +1,14 @@
 # mummumi
-포트폴리오1 - 멈뭄미
 
-Language -
-HTML/ CSS / JS
+Description
+강아지 관련 페이지
 
-Function - 
-1. 반응형 페이지
-2. :hover 시 메뉴확장 등
+Language / Library
+HTML CSS Javascript
 
-Description-
-일반적인 웹사이트 메인페이지 퍼블리싱
+Main Function
+ㆍ일반적인 사이트의 메인 페이지 구조 구현
+
+ㆍscroll-Y시 nav 메뉴 fix 구현
+
+ㆍJavascript를 활용한 메뉴판 확장 구현
